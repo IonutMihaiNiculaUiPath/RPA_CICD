@@ -1,0 +1,61 @@
+{
+  "name": "RPA_DocumentProcessing",
+  "description": "",
+  "main": "Flowchart_Document Processing.xaml",
+  "dependencies": {
+    "UiPath.Abbyy.Activities": "[1.2.0-alpha.815613]",
+    "UiPath.DocumentUnderstanding.ML.Activities": "[1.0.0]",
+    "UiPath.Excel.Activities": "[2.7.2]",
+    "UiPath.IntelligentOCR.Activities": "[4.4.0-preview]",
+    "UiPath.OmniPage.Activities": "[1.2.0]",
+    "UiPath.System.Activities": "[19.10.1]",
+    "UiPath.Testing.Activities": "[1.0.0-preview]",
+    "UiPath.UIAutomation.Activities": "[19.11.2]"
+  },
+  "webServices": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "19.10.1.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "cf1dd5ea-ce0d-4ed5-a9a0-a7a55813cbed",
+        "fileName": "TestCases\\UiPath Invoice Test.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "d1e1260d-6eef-41bd-b347-61e9a29ca5b2",
+        "fileName": "TestCases\\Factory Request Form Test.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "86be4108-3272-4ab4-9153-673780e983d1",
+        "fileName": "TestCases\\Coverage Testing.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "d5ad27a9-dc41-491a-9ff9-3a9d885be13a",
+        "fileName": "TestCases\\Not Recognized Test.xaml"
+      }
+    ]
+  },
+  "expressionLanguage": "VisualBasic"
+}
