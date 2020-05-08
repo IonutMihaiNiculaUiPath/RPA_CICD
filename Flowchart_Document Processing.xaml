@@ -218,10 +218,10 @@
                         <sap:WorkflowViewStateService.ViewState>
                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
                             <av:Point x:Key="ShapeLocation">130,696</av:Point>
-                            <av:Size x:Key="ShapeSize">200,68</av:Size>
+                            <av:Size x:Key="ShapeSize">200,66</av:Size>
                           </scg:Dictionary>
                         </sap:WorkflowViewStateService.ViewState>
-                        <Sequence DisplayName="Write Results" sap:VirtualizedContainerService.HintSize="200,68" sap2010:WorkflowViewState.IdRef="Sequence_6">
+                        <Sequence DisplayName="Write Results" sap:VirtualizedContainerService.HintSize="200,66" sap2010:WorkflowViewState.IdRef="Sequence_6">
                           <Sequence.Variables>
                             <Variable x:TypeArguments="p2:ExtractionResult" Name="validatedExtractionResults" />
                             <Variable x:TypeArguments="sd:DataSet" Name="validatedDS" />
@@ -340,12 +340,12 @@
                   </sap:WorkflowViewStateService.ViewState>
                   <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke Documentnotrecognized workflow" sap:VirtualizedContainerService.HintSize="334,87" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" UnSafe="False" WorkflowFileName="Documentnotrecognized.xaml">
                     <ui:InvokeWorkflowFile.Arguments>
-                      <InOutArgument x:TypeArguments="x:String" x:Key="inputFile">
-                        <mva:VisualBasicReference x:TypeArguments="x:String" ExpressionText="DocumentPath" />
-                      </InOutArgument>
-                      <InArgument x:TypeArguments="x:String" x:Key="outPutFile">
-                        <mva:VisualBasicValue x:TypeArguments="x:String" ExpressionText="outputFile" />
+                      <InArgument x:TypeArguments="x:String" x:Key="inputFile">
+                        <mva:VisualBasicValue x:TypeArguments="x:String" ExpressionText="DocumentPath" />
                       </InArgument>
+                      <InOutArgument x:TypeArguments="x:String" x:Key="outPutFile">
+                        <mva:VisualBasicReference x:TypeArguments="x:String" ExpressionText="outputFile" />
+                      </InOutArgument>
                     </ui:InvokeWorkflowFile.Arguments>
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
