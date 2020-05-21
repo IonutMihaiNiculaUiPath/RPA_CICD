@@ -12,7 +12,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>859,831</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1041,923</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>ClasifyDocument_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="27">
@@ -70,12 +70,13 @@
       <AssemblyReference>System.Collections.Immutable</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="ClasifyDocument" sap:VirtualizedContainerService.HintSize="490,657" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="ClasifyDocument" sap:VirtualizedContainerService.HintSize="490,758" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="448,61" sap2010:WorkflowViewState.IdRef="WriteLine_3" Text="=== Starting Clasify Document ===" />
     <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="448,61" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="[&quot;processing item &quot; + documentPath]" />
     <p3:DigitizeDocument DegreeOfParallelism="1" DisplayName="Digitize Document" DocumentObjectModel="[dom]" DocumentPath="[documentPath]" DocumentText="[text]" ForceApplyOCR="False" sap:VirtualizedContainerService.HintSize="448,131" sap2010:WorkflowViewState.IdRef="DigitizeDocument_1">
       <p3:DigitizeDocument.OCREngine>
