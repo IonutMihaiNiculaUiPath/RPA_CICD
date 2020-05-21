@@ -46,19 +46,15 @@
         "fileName": "TestCases\\Factory Request Form Test.xaml"
       },
       {
-        "editingStatus": "Publishable",
-        "testCaseId": "86be4108-3272-4ab4-9153-673780e983d1",
-        "fileName": "TestCases\\Coverage Testing.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "d5ad27a9-dc41-491a-9ff9-3a9d885be13a",
         "fileName": "TestCases\\Not Recognized Test.xaml"
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "5948a81d-b7d9-466c-aa9a-c62da80d8cdb",
-        "fileName": "TestCases\\Failing_TestCase.xaml"
+        "testCaseId": "7a71dd38-347f-470c-8514-60213e8a1b24",
+        "dataVariationFilePath": ".variations\\CoverageTest Input_CoverageTest Input.json",
+        "fileName": "TestCases\\Coverage Test.xaml"
       }
     ]
   },
