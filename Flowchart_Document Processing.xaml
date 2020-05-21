@@ -6,7 +6,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>1054,1125</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1041,1125</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>Flowchart_Document_Processing_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="27">
@@ -221,7 +221,7 @@
                             <av:Size x:Key="ShapeSize">200,66</av:Size>
                           </scg:Dictionary>
                         </sap:WorkflowViewStateService.ViewState>
-                        <Sequence DisplayName="Write Results" sap:VirtualizedContainerService.HintSize="200,66" sap2010:WorkflowViewState.IdRef="Sequence_6">
+                        <Sequence DisplayName="Write Results" sap:VirtualizedContainerService.HintSize="454,696" sap2010:WorkflowViewState.IdRef="Sequence_6">
                           <Sequence.Variables>
                             <Variable x:TypeArguments="p2:ExtractionResult" Name="validatedExtractionResults" />
                             <Variable x:TypeArguments="sd:DataSet" Name="validatedDS" />
@@ -231,6 +231,7 @@
                               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                             </scg:Dictionary>
                           </sap:WorkflowViewStateService.ViewState>
+                          <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="412,61" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Small change" />
                           <p4:ExportExtractionResults DataSet="[validatedDS]" DisplayName="Export Extraction Results" ExtractionResult="[extractionResults]" sap:VirtualizedContainerService.HintSize="412,22" sap2010:WorkflowViewState.IdRef="ExportExtractionResults_1" IncludeConfidence="False" />
                           <Assign sap:VirtualizedContainerService.HintSize="412,60" sap2010:WorkflowViewState.IdRef="Assign_1">
                             <Assign.To>
@@ -240,7 +241,7 @@
                               <InArgument x:TypeArguments="x:String">["output/" + dom.DocumentId + ".Results.xlsx"]</InArgument>
                             </Assign.Value>
                           </Assign>
-                          <ui:ForEach x:TypeArguments="sd:DataTable" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="412,342" sap2010:WorkflowViewState.IdRef="ForEach`1_1" Values="[validatedDS.Tables]">
+                          <ui:ForEach x:TypeArguments="sd:DataTable" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="412,341" sap2010:WorkflowViewState.IdRef="ForEach`1_1" Values="[validatedDS.Tables]">
                             <ui:ForEach.Body>
                               <ActivityAction x:TypeArguments="sd:DataTable">
                                 <ActivityAction.Argument>
@@ -338,14 +339,10 @@
                       <av:Size x:Key="ShapeSize">200,51</av:Size>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke Documentnotrecognized workflow" sap:VirtualizedContainerService.HintSize="334,87" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" UnSafe="False" WorkflowFileName="Documentnotrecognized.xaml">
+                  <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke Documentnotrecognized workflow" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" UnSafe="False" WorkflowFileName="Documentnotrecognized.xaml">
                     <ui:InvokeWorkflowFile.Arguments>
-                      <InArgument x:TypeArguments="x:String" x:Key="inputFile">
-                        <mva:VisualBasicValue x:TypeArguments="x:String" ExpressionText="DocumentPath" />
-                      </InArgument>
-                      <InOutArgument x:TypeArguments="x:String" x:Key="outPutFile">
-                        <mva:VisualBasicReference x:TypeArguments="x:String" ExpressionText="outputFile" />
-                      </InOutArgument>
+                      <InArgument x:TypeArguments="x:String" x:Key="inputFile">[DocumentPath]</InArgument>
+                      <InOutArgument x:TypeArguments="x:String" x:Key="outPutFile">[outputFile]</InOutArgument>
                     </ui:InvokeWorkflowFile.Arguments>
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
