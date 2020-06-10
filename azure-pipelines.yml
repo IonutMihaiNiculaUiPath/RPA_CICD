@@ -13,13 +13,13 @@ steps:
 - task: UiPathPack@2
   inputs:
     versionType: 'AutoVersion'
-    projectJsonPath: '$(Build.SourcesDirectory)\RPA_CICD'
+    projectJsonPath: '$(Build.SourcesDirectory)'
     outputPath: '$(Build.ArtifactStagingDirectory)\Output'
 - task: UiPathTest@2
   inputs:
     testTarget: 'TestProject'
     orchestratorConnection: 'Test Orchestrator'
-    testProjectPath: '$(Build.SourcesDirectory)\RPA_CICD'
+    testProjectPath: '$(Build.SourcesDirectory)'
     environment: 'IonutEnv'
     folderName: 'Ionut Nicula'
 - task: UiPathDeploy@2
