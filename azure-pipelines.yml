@@ -1,0 +1,30 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- master
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- task: UiPathPack@2
+  inputs:
+    versionType: 'AutoVersion'
+    projectJsonPath: '$(Build.SourcesDirectory)\RPA_CICD'
+    outputPath: '$(Build.ArtifactStagingDirectory)\Output'
+- task: UiPathTest@2
+  inputs:
+    testTarget: 'TestProject'
+    orchestratorConnection: 'Test Orchestrator'
+    testProjectPath: '$(Build.SourcesDirectory)\RPA_CICD'
+    environment: 'IonutEnv'
+    folderName: 'Ionut Nicula'
+- task: UiPathDeploy@2
+  inputs:
+    orchestratorConnection: 'Test Orchestrator'
+    packagesPath: '$(Build.ArtifactStagingDirectory)\Output'
+    folderName: 'Ionut Nicula'
+    environments: 'IonutEnv'
