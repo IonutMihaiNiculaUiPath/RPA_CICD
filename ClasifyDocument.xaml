@@ -12,7 +12,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>1041,923</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>969,923</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>ClasifyDocument_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="27">
@@ -68,6 +68,11 @@
       <AssemblyReference>System.ValueTuple</AssemblyReference>
       <AssemblyReference>System.ServiceModel</AssemblyReference>
       <AssemblyReference>System.Collections.Immutable</AssemblyReference>
+      <AssemblyReference>UiPath.DocumentUnderstanding.ML.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Excel</AssemblyReference>
+      <AssemblyReference>UiPath.CV</AssemblyReference>
+      <AssemblyReference>UiPath.OmniPage.Activities.Design</AssemblyReference>
+      <AssemblyReference>UiPath.IntelligentOCR</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
   <Sequence DisplayName="ClasifyDocument" sap:VirtualizedContainerService.HintSize="490,758" sap2010:WorkflowViewState.IdRef="Sequence_1">
@@ -77,7 +82,7 @@
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="448,61" sap2010:WorkflowViewState.IdRef="WriteLine_3" Text="=== Starting Clasify Document ===" />
-    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="448,61" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="[&quot;processing item &quot; + documentPath]" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="448,61" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="[&quot;Processing document: &quot; + documentPath]" />
     <p3:DigitizeDocument DegreeOfParallelism="1" DisplayName="Digitize Document" DocumentObjectModel="[dom]" DocumentPath="[documentPath]" DocumentText="[text]" ForceApplyOCR="False" sap:VirtualizedContainerService.HintSize="448,131" sap2010:WorkflowViewState.IdRef="DigitizeDocument_1">
       <p3:DigitizeDocument.OCREngine>
         <ActivityFunc x:TypeArguments="sd:Image, scg:IEnumerable(scg:KeyValuePair(sd:Rectangle, x:String))">
@@ -93,35 +98,35 @@
         <p4:KeywordBasedClassifier HumanValidatedData="{x:Null}" LearningData="{x:Null}" DisplayName="Keyword Based Classifier" sap:VirtualizedContainerService.HintSize="334,91" sap2010:WorkflowViewState.IdRef="KeywordBasedClassifier_1" LearningFilePath="DocumentProcessing\keywordLearning.json" PersistenceId="UI95fc92513ff045f4ac6a87260ce5d98d">
           <p4:KeywordBasedClassifier.ClassifierResult>
             <OutArgument x:TypeArguments="p5:ClassifierResult">
-              <DelegateArgumentReference x:TypeArguments="p5:ClassifierResult">
+              <DelegateArgumentReference x:TypeArguments="p5:ClassifierResult" sap2010:WorkflowViewState.IdRef="DelegateArgumentReference`1_1">
                 <DelegateOutArgument x:TypeArguments="p5:ClassifierResult" Name="ClassificationResult" />
               </DelegateArgumentReference>
             </OutArgument>
           </p4:KeywordBasedClassifier.ClassifierResult>
           <p4:KeywordBasedClassifier.DocumentObjectModel>
             <InArgument x:TypeArguments="p2:Document">
-              <DelegateArgumentValue x:TypeArguments="p2:Document">
+              <DelegateArgumentValue x:TypeArguments="p2:Document" sap2010:WorkflowViewState.IdRef="DelegateArgumentValue`1_3">
                 <DelegateInArgument x:TypeArguments="p2:Document" Name="DocumentObjectModel" />
               </DelegateArgumentValue>
             </InArgument>
           </p4:KeywordBasedClassifier.DocumentObjectModel>
           <p4:KeywordBasedClassifier.DocumentPath>
             <InArgument x:TypeArguments="x:String">
-              <DelegateArgumentValue x:TypeArguments="x:String">
+              <DelegateArgumentValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="DelegateArgumentValue`1_4">
                 <DelegateInArgument x:TypeArguments="x:String" Name="DocumentPath" />
               </DelegateArgumentValue>
             </InArgument>
           </p4:KeywordBasedClassifier.DocumentPath>
           <p4:KeywordBasedClassifier.DocumentText>
             <InArgument x:TypeArguments="x:String">
-              <DelegateArgumentValue x:TypeArguments="x:String">
+              <DelegateArgumentValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="DelegateArgumentValue`1_2">
                 <DelegateInArgument x:TypeArguments="x:String" Name="DocumentText" />
               </DelegateArgumentValue>
             </InArgument>
           </p4:KeywordBasedClassifier.DocumentText>
           <p4:KeywordBasedClassifier.DocumentTypes>
             <InArgument x:TypeArguments="p5:ClassifierDocumentType[]">
-              <DelegateArgumentValue x:TypeArguments="p5:ClassifierDocumentType[]">
+              <DelegateArgumentValue x:TypeArguments="p5:ClassifierDocumentType[]" sap2010:WorkflowViewState.IdRef="DelegateArgumentValue`1_1">
                 <DelegateInArgument x:TypeArguments="p5:ClassifierDocumentType[]" Name="DocumentTypes" />
               </DelegateArgumentValue>
             </InArgument>
@@ -129,6 +134,6 @@
         </p4:KeywordBasedClassifier>
       </p4:ClassifyDocumentScope.Classifiers>
     </p4:ClassifyDocumentScope>
-    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="448,61" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="[classificationResults.Any.ToString]" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="448,61" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="[&quot;Classification success result: &quot; + classificationResults.Any.ToString]" />
   </Sequence>
 </Activity>

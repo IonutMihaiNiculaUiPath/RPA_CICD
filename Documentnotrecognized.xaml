@@ -3,7 +3,7 @@
     <x:Property Name="inputFile" Type="InArgument(x:String)" />
     <x:Property Name="outPutFile" Type="InOutArgument(x:String)" />
   </x:Members>
-  <sap:VirtualizedContainerService.HintSize>1461,716</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>969,817</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>ActivityBuilder_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="32">
@@ -55,7 +55,7 @@
       <AssemblyReference>WindowsBase</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Document not recognized" sap:VirtualizedContainerService.HintSize="426,551" sap2010:WorkflowViewState.IdRef="Sequence_5">
+  <Sequence DisplayName="Document not recognized" sap:VirtualizedContainerService.HintSize="426,652" sap2010:WorkflowViewState.IdRef="Sequence_5">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -72,5 +72,6 @@
     </Assign>
     <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="384,61" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="[outPutFile]" />
     <ui:CopyFile ContinueOnError="{x:Null}" Destination="[outPutFile]" DisplayName="Copy File" sap:VirtualizedContainerService.HintSize="384,157" sap2010:WorkflowViewState.IdRef="CopyFile_1" Overwrite="True" Path="[inputFile]" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="384,61" sap2010:WorkflowViewState.IdRef="WriteLine_3" Text="=== Process Finished ===" />
   </Sequence>
 </Activity>
