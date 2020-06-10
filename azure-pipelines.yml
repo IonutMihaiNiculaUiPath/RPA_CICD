@@ -17,10 +17,9 @@ steps:
     outputPath: '$(Build.ArtifactStagingDirectory)\Output'
 - task: UiPathTest@2
   inputs:
-    testTarget: 'TestProject'
+    testTarget: 'TestSet'
     orchestratorConnection: 'Test Orchestrator'
-    testProjectPath: '$(Build.SourcesDirectory)'
-    environment: 'IonutEnv'
+    testSet: 'UiBank Web Smoke Test Set'
     folderName: 'Ionut Nicula'
 - task: UiPathDeploy@2
   inputs:
