@@ -54,6 +54,11 @@
         "testCaseId": "7a71dd38-347f-470c-8514-60213e8a1b24",
         "dataVariationFilePath": ".variations\\CoverageTest Input_CoverageTest Input.json",
         "fileName": "TestCases\\Coverage Test.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "82648a9e-7bdd-4d5a-991d-c7e5fcf87a33",
+        "fileName": "TestCase.xaml"
       }
     ]
   },
