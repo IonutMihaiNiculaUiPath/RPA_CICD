@@ -1,4 +1,4 @@
-<Activity mc:Ignorable="sap sap2010" x:Class="UiPath_Invoice_Test" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="1229,1720" sap2010:WorkflowViewState.IdRef="UiPath_Invoice_Test_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uta="clr-namespace:UiPath.Testing.Activities;assembly=UiPath.Testing.Activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Activity mc:Ignorable="sap sap2010" x:Class="UiPath_Invoice_Test" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="1023,1724" sap2010:WorkflowViewState.IdRef="UiPath_Invoice_Test_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uta="clr-namespace:UiPath.Testing.Activities;assembly=UiPath.Testing.Activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
       <x:String>System.Activities</x:String>
@@ -56,7 +56,7 @@
       <AssemblyReference>UiPath.OmniPage.Activities.Design</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="UiPath_Invoice_Test" sap:VirtualizedContainerService.HintSize="696,1555" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="UiPath_Invoice_Test" sap:VirtualizedContainerService.HintSize="696,1559" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="document" />
       <Variable x:TypeArguments="x:String" Name="outputResults" />
@@ -98,7 +98,7 @@
         </ui:InvokeWorkflowFile.Arguments>
       </ui:InvokeWorkflowFile>
     </Sequence>
-    <Sequence DisplayName="... Then" sap:VirtualizedContainerService.HintSize="654,1052" sap2010:WorkflowViewState.IdRef="Sequence_4">
+    <Sequence DisplayName="... Then" sap:VirtualizedContainerService.HintSize="654,1056" sap2010:WorkflowViewState.IdRef="Sequence_4">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -141,19 +141,19 @@
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </uta:VerifyControlAttribute>
-      <Sequence DisplayName="Verify Extracted Values" sap:VirtualizedContainerService.HintSize="612,756" sap2010:WorkflowViewState.IdRef="Sequence_6">
+      <Sequence DisplayName="Verify Extracted Values" sap:VirtualizedContainerService.HintSize="612,760" sap2010:WorkflowViewState.IdRef="Sequence_6">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
-        <ui:ExcelApplicationScope Password="{x:Null}" DisplayName="Excel Application Scope" sap:VirtualizedContainerService.HintSize="510,664" sap2010:WorkflowViewState.IdRef="ExcelApplicationScope_1" WorkbookPath="[outputResults]">
+        <ui:ExcelApplicationScope Password="{x:Null}" DisplayName="Excel Application Scope" sap:VirtualizedContainerService.HintSize="510,668" sap2010:WorkflowViewState.IdRef="ExcelApplicationScope_1" WorkbookPath="[outputResults]">
           <ui:ExcelApplicationScope.Body>
             <ActivityAction x:TypeArguments="ui:WorkbookApplication">
               <ActivityAction.Argument>
                 <DelegateInArgument x:TypeArguments="ui:WorkbookApplication" Name="ExcelWorkbookScope" />
               </ActivityAction.Argument>
-              <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="476,555" sap2010:WorkflowViewState.IdRef="Sequence_5">
+              <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="476,559" sap2010:WorkflowViewState.IdRef="Sequence_5">
                 <Sequence.Variables>
                   <Variable x:TypeArguments="sd:DataTable" Name="dtResults" />
                 </Sequence.Variables>
@@ -169,9 +169,9 @@
                     </InArgument>
                   </ui:ExcelReadRange.Range>
                 </ui:ExcelReadRange>
-                <uta:VerifyExpression ContinueOnFailure="True" DisplayName="Verify Expression" Expression="[dtResults.Rows(0)(&quot;Issuer&quot;) .Equals(&quot;UiPath INC&quot;)]" sap:VirtualizedContainerService.HintSize="434,61" sap2010:WorkflowViewState.IdRef="VerifyExpression_1" TakeScreenshotInCaseOfFailingAssertion="False" />
-                <uta:VerifyExpression ContinueOnFailure="True" DisplayName="Verify Expression" Expression="[dtResults.Rows(0)(&quot;Address&quot;).Equals( &quot;90 Park Ave 20th floor, New York, NY 10016, United States&quot;)]" sap:VirtualizedContainerService.HintSize="434,61" sap2010:WorkflowViewState.IdRef="VerifyExpression_2" TakeScreenshotInCaseOfFailingAssertion="False" />
-                <uta:VerifyExpressionWithOperator ContinueOnFailure="True" DisplayName="Verify Expression with Operator" sap:VirtualizedContainerService.HintSize="434,61" sap2010:WorkflowViewState.IdRef="VerifyExpressionWithOperator_1" Operator="Equality" TakeScreenshotInCaseOfFailingAssertion="False">
+                <uta:VerifyExpression ContinueOnFailure="True" DisplayName="Verify Expression" Expression="[dtResults.Rows(0)(&quot;Issuer&quot;) .Equals(&quot;UiPath INC&quot;)]" sap:VirtualizedContainerService.HintSize="434,62" sap2010:WorkflowViewState.IdRef="VerifyExpression_1" TakeScreenshotInCaseOfFailingAssertion="False" />
+                <uta:VerifyExpression ContinueOnFailure="True" DisplayName="Verify Expression" Expression="[dtResults.Rows(0)(&quot;Address&quot;).Equals( &quot;90 Park Ave 20th floor, New York, NY 10016, United States&quot;)]" sap:VirtualizedContainerService.HintSize="434,62" sap2010:WorkflowViewState.IdRef="VerifyExpression_2" TakeScreenshotInCaseOfFailingAssertion="False" />
+                <uta:VerifyExpressionWithOperator ContinueOnFailure="True" DisplayName="Verify Expression with Operator" sap:VirtualizedContainerService.HintSize="434,62" sap2010:WorkflowViewState.IdRef="VerifyExpressionWithOperator_1" Operator="Equality" TakeScreenshotInCaseOfFailingAssertion="False">
                   <uta:VerifyExpressionWithOperator.FirstExpression>
                     <InArgument x:TypeArguments="x:Object">[dtResults.Rows(0)("Invoice Number")]</InArgument>
                   </uta:VerifyExpressionWithOperator.FirstExpression>
@@ -179,7 +179,7 @@
                     <InArgument x:TypeArguments="x:Int32">[55512]</InArgument>
                   </uta:VerifyExpressionWithOperator.SecondExpression>
                 </uta:VerifyExpressionWithOperator>
-                <uta:VerifyExpressionWithOperator ContinueOnFailure="True" DisplayName="Verify Expression with Operator" sap:VirtualizedContainerService.HintSize="434,61" sap2010:WorkflowViewState.IdRef="VerifyExpressionWithOperator_2" Operator="Equality" TakeScreenshotInCaseOfFailingAssertion="False">
+                <uta:VerifyExpressionWithOperator ContinueOnFailure="True" DisplayName="Verify Expression with Operator" sap:VirtualizedContainerService.HintSize="434,62" sap2010:WorkflowViewState.IdRef="VerifyExpressionWithOperator_2" Operator="Equality" TakeScreenshotInCaseOfFailingAssertion="False">
                   <uta:VerifyExpressionWithOperator.FirstExpression>
                     <InArgument x:TypeArguments="x:Object">[dtResults.Rows(0)("Total")]</InArgument>
                   </uta:VerifyExpressionWithOperator.FirstExpression>
