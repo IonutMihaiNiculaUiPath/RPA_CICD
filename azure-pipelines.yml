@@ -19,7 +19,7 @@ steps:
   inputs:
     testTarget: 'TestSet'
     orchestratorConnection: 'Test Orchestrator'
-    testSet: 'UiBank Web Smoke Test Set'
+    testSet: 'UiBank Regression Testing'
     folderName: 'Ionut Nicula'
 - task: UiPathDeploy@2
   inputs:
