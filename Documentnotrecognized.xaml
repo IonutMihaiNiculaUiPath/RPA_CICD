@@ -3,7 +3,7 @@
     <x:Property Name="inputFile" Type="InArgument(x:String)" />
     <x:Property Name="outPutFile" Type="InOutArgument(x:String)" />
   </x:Members>
-  <sap:VirtualizedContainerService.HintSize>969,817</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1039,817</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>ActivityBuilder_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="32">
@@ -28,6 +28,7 @@
       <x:String>UiPath.Abbyy.Core.FlexiCapture.Enums</x:String>
       <x:String>UiPath.Abbyy.Core.FlexiCapture.ValidationStationAdapters</x:String>
       <x:String>UiPath.DocumentProcessing.Contracts.Dom</x:String>
+      <x:String>System.Activities.DynamicUpdate</x:String>
     </scg:List>
   </TextExpression.NamespacesForImplementation>
   <TextExpression.ReferencesForImplementation>
