@@ -56,20 +56,25 @@
         "fileName": "TestCases\\Not Recognized Test.xaml"
       },
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "7a71dd38-347f-470c-8514-60213e8a1b24",
         "dataVariationFilePath": ".variations\\CoverageTest Input_CoverageTest Input.json",
         "fileName": "TestCases\\Coverage Test.xaml"
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "f6a23de7-8063-4ec2-8f2a-86c56b1a53f9",
-        "fileName": "TestCase.xaml"
+        "testCaseId": "bda3abc3-7bde-4883-8b22-6311d45901fe",
+        "fileName": "VerifyResult.xaml"
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "bda3abc3-7bde-4883-8b22-6311d45901fe",
-        "fileName": "VerifyResult.xaml"
+        "testCaseId": "2007c22a-0f64-4e80-9360-9507b2fc8dba",
+        "fileName": "TestCaseSimpleInvoice.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "a0d6aa9c-8a3d-43a6-9003-1ba377a5e827",
+        "fileName": "MockDependecy.xaml"
       }
     ],
     "modernBehavior": false
