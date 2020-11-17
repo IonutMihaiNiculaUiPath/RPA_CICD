@@ -8,7 +8,7 @@
     "UiPath.IntelligentOCR.Activities": "[4.5.2]",
     "UiPath.OmniPage.Activities": "[1.5.0]",
     "UiPath.System.Activities": "[20.4.0]",
-    "UiPath.Testing.Activities": "[1.0.0]",
+    "UiPath.Testing.Activities": "[1.2.4]",
     "UiPath.UIAutomation.Activities": "[20.4.1]"
   },
   "webServices": [],
@@ -60,11 +60,29 @@
         "testCaseId": "7a71dd38-347f-470c-8514-60213e8a1b24",
         "dataVariationFilePath": ".variations\\CoverageTest Input_CoverageTest Input.json",
         "fileName": "TestCases\\Coverage Test.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "f6a23de7-8063-4ec2-8f2a-86c56b1a53f9",
+        "fileName": "TestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "bda3abc3-7bde-4883-8b22-6311d45901fe",
+        "fileName": "VerifyResult.xaml"
       }
     ],
     "modernBehavior": false
   },
   "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Flowchart_Document Processing.xaml",
+      "uniqueId": "5991d8c1-0bb7-4a34-9284-a65fb930fa77",
+      "input": [],
+      "output": []
+    }
+  ],
   "isTemplate": false,
   "templateProjectData": {},
   "publishData": {}
