@@ -60,21 +60,6 @@
         "testCaseId": "7a71dd38-347f-470c-8514-60213e8a1b24",
         "dataVariationFilePath": ".variations\\CoverageTest Input_CoverageTest Input.json",
         "fileName": "TestCases\\Coverage Test.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "bda3abc3-7bde-4883-8b22-6311d45901fe",
-        "fileName": "VerifyResult.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "2007c22a-0f64-4e80-9360-9507b2fc8dba",
-        "fileName": "TestCaseSimpleInvoice.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "a0d6aa9c-8a3d-43a6-9003-1ba377a5e827",
-        "fileName": "MockDependecy.xaml"
       }
     ],
     "modernBehavior": false
