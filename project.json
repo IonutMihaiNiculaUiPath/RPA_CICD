@@ -60,6 +60,16 @@
         "testCaseId": "7a71dd38-347f-470c-8514-60213e8a1b24",
         "dataVariationFilePath": ".variations\\CoverageTest Input_CoverageTest Input.json",
         "fileName": "TestCases\\Coverage Test.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "c1008a65-9655-4786-8ca5-2e3d98a62688",
+        "fileName": "TestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "94ff0ce9-f759-4dfc-9a19-065d518dbd88",
+        "fileName": "TestInvoice.xaml"
       }
     ],
     "modernBehavior": false

@@ -6,7 +6,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>935,1253</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>946,1213</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>Flowchart_Document_Processing_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="27">
@@ -88,11 +88,11 @@
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <av:Point x:Key="ShapeLocation">200,106</av:Point>
-          <av:Size x:Key="ShapeSize">200,66</av:Size>
+          <av:Size x:Key="ShapeSize">200,68</av:Size>
           <av:PointCollection x:Key="ConnectorLocation">300,174 300,194</av:PointCollection>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <Sequence DisplayName="Prepare Taxonomy" sap:VirtualizedContainerService.HintSize="200,66" sap2010:WorkflowViewState.IdRef="Sequence_1">
+      <Sequence DisplayName="Prepare Taxonomy" sap:VirtualizedContainerService.HintSize="200,68" sap2010:WorkflowViewState.IdRef="Sequence_1">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -111,11 +111,11 @@
           <sap:WorkflowViewStateService.ViewState>
             <scg:Dictionary x:TypeArguments="x:String, x:Object">
               <av:Point x:Key="ShapeLocation">200,194</av:Point>
-              <av:Size x:Key="ShapeSize">200,51</av:Size>
+              <av:Size x:Key="ShapeSize">200,52</av:Size>
               <av:PointCollection x:Key="ConnectorLocation">300,246 300,256.5</av:PointCollection>
             </scg:Dictionary>
           </sap:WorkflowViewStateService.ViewState>
-          <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke ClasifyDocument workflow" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" UnSafe="False" WorkflowFileName="ClasifyDocument.xaml">
+          <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke ClasifyDocument workflow" sap:VirtualizedContainerService.HintSize="200,52" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" UnSafe="False" WorkflowFileName="ClasifyDocument.xaml">
             <ui:InvokeWorkflowFile.Arguments>
               <InArgument x:TypeArguments="x:String" x:Key="documentPath">[DocumentPath]</InArgument>
               <InArgument x:TypeArguments="p1:DocumentTaxonomy" x:Key="Taxonomy">[Taxonomy]</InArgument>
@@ -141,11 +141,11 @@
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
               <FlowDecision.True>
-                <FlowSwitch x:TypeArguments="x:String" x:Name="__ReferenceID2" DisplayName="Classify Document" Expression="[classificationResults(0).DocumentTypeId]" sap:VirtualizedContainerService.HintSize="105,87" sap2010:WorkflowViewState.IdRef="FlowSwitch`1_1">
+                <FlowSwitch x:TypeArguments="x:String" x:Name="__ReferenceID2" DisplayName="Classify Document" Expression="[classificationResults(0).DocumentTypeId]" sap:VirtualizedContainerService.HintSize="104,87" sap2010:WorkflowViewState.IdRef="FlowSwitch`1_1">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <av:Point x:Key="ShapeLocation">178,456.5</av:Point>
-                      <av:Size x:Key="ShapeSize">105,87</av:Size>
+                      <av:Size x:Key="ShapeSize">104,87</av:Size>
                       <av:PointCollection x:Key="Financial.Accounting.InvoiceConnector">230,543.5 230,666</av:PointCollection>
                       <av:PointCollection x:Key="Factory.Service.RequestFormConnector">282,500 530,500 530,666</av:PointCollection>
                     </scg:Dictionary>
@@ -154,11 +154,11 @@
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <av:Point x:Key="ShapeLocation">430,666</av:Point>
-                        <av:Size x:Key="ShapeSize">200,66</av:Size>
+                        <av:Size x:Key="ShapeSize">200,68</av:Size>
                         <av:PointCollection x:Key="ConnectorLocation">530,734 530,764 350,764 350,876</av:PointCollection>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
-                    <Sequence DisplayName="Process Requst Form" sap:VirtualizedContainerService.HintSize="200,66" sap2010:WorkflowViewState.IdRef="Sequence_3">
+                    <Sequence DisplayName="Process Requst Form" sap:VirtualizedContainerService.HintSize="200,68" sap2010:WorkflowViewState.IdRef="Sequence_3">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -170,42 +170,42 @@
                           <p4:FormExtractor SerializedSignatureFields="{x:Null}" ApiKey="jJ8IBULByw4sjKJxVxGhzkapTHAKs2LB0x80W+Ct0JfdOsZ0vbL5brQ7wSJnTbkv" DisplayName="Form Extractor" Endpoint="https://formextractor.uipath.com/" sap:VirtualizedContainerService.HintSize="234,68" sap2010:WorkflowViewState.IdRef="FormExtractor_2" MinOverlapPercentage="65" PersistenceId="UI1058a3b4efa94059ba118260028861f0" SerializedSettings="{}{&quot;DocTypeSettings&quot;:[{&quot;DocumentTypeId&quot;:&quot;Factory.Service.RequestForm&quot;,&quot;SignatureFields&quot;:[],&quot;HandwritingFields&quot;:[],&quot;BooleanSynonymsForYes&quot;:[&quot;Yes&quot;,&quot;X&quot;,&quot;V&quot;,&quot;✓&quot;,&quot;✔&quot;],&quot;BooleanSynonymsForNo&quot;:[&quot;No&quot;]}]}" SerializedTemplates="[{&quot;DocumentTypeId&quot;:&quot;Factory.Service.RequestForm&quot;,&quot;FormId&quot;:&quot;2da35a56&quot;,&quot;FormName&quot;:&quot;Request Form&quot;,&quot;OriginalFileExtension&quot;:&quot;pdf&quot;,&quot;Pages&quot;:[{&quot;Page&quot;:0,&quot;Size&quot;:[0.0,0.0,792.0,612.0],&quot;SkewAngle&quot;:0.0,&quot;Evidence&quot;:[{&quot;Text&quot;:&quot;FACTORY&quot;,&quot;Box&quot;:[54.1242,252.384,75.768,11.8809]},{&quot;Text&quot;:&quot;SERVICE&quot;,&quot;Box&quot;:[54.1242,333.432,69.168,11.8809]},{&quot;Text&quot;:&quot;REQUEST&quot;,&quot;Box&quot;:[54.1242,408.936,75.768,12.673]},{&quot;Text&quot;:&quot;FORM&quot;,&quot;Box&quot;:[54.1242,490.512,45.144,11.8809]},{&quot;Text&quot;:&quot;Customer&quot;,&quot;Box&quot;:[145.4754,124.608,43.032,7.1286]},{&quot;Text&quot;:&quot;Contact&quot;,&quot;Box&quot;:[145.4754,170.544,33.792,7.1286]},{&quot;Text&quot;:&quot;Information:&quot;,&quot;Box&quot;:[145.4754,208.296,50.9519,7.1286]},{&quot;Text&quot;:&quot;Please&quot;,&quot;Box&quot;:[293.327,124.872,32.472,7.9206]},{&quot;Text&quot;:&quot;tell&quot;,&quot;Box&quot;:[293.327,160.776,13.2,7.9206]},{&quot;Text&quot;:&quot;us&quot;,&quot;Box&quot;:[295.1751,178.464,10.56,6.0725]},{&quot;Text&quot;:&quot;about&quot;,&quot;Box&quot;:[293.327,192.984,27.192,7.9206]},{&quot;Text&quot;:&quot;the&quot;,&quot;Box&quot;:[293.327,223.344,14.784,7.9206]},{&quot;Text&quot;:&quot;problem&quot;,&quot;Box&quot;:[293.327,242.088,38.544,10.0328]},{&quot;Text&quot;:&quot;you&quot;,&quot;Box&quot;:[295.1751,284.592,16.896,8.1846]},{&quot;Text&quot;:&quot;are&quot;,&quot;Box&quot;:[295.1751,305.448,15.312,6.0725]},{&quot;Text&quot;:&quot;having.&quot;,&quot;Box&quot;:[293.327,324.72,33.5279,10.0328]}],&quot;Fields&quot;:[{&quot;Field&quot;:&quot;Factory.Service.RequestForm.CompanyName&quot;,&quot;Box&quot;:[161.4924,199.2885,229.3536,16.321]},{&quot;Field&quot;:&quot;Factory.Service.RequestForm.ServiceAccountNumber&quot;,&quot;Box&quot;:[160.6334,560.0694,103.9393,18.039]},{&quot;Field&quot;:&quot;Factory.Service.RequestForm.ModelNumber&quot;,&quot;Box&quot;:[310.9588,171.8004,125.4143,14.603]},{&quot;Field&quot;:&quot;Factory.Service.RequestForm.SerialNumber&quot;,&quot;Box&quot;:[311.8178,359.0629,103.9393,14.603]},{&quot;Field&quot;:&quot;Factory.Service.RequestForm.DateofPurchase&quot;,&quot;Box&quot;:[310.9588,558.3514,106.5163,15.462]}],&quot;Tables&quot;:[]}]}]">
                             <p4:FormExtractor.DocumentBounds>
                               <InArgument x:TypeArguments="p2:ResultsDocumentBounds">
-                                <DelegateArgumentValue x:TypeArguments="p2:ResultsDocumentBounds" sap2010:WorkflowViewState.IdRef="DelegateArgumentValue`1_2">
+                                <DelegateArgumentValue x:TypeArguments="p2:ResultsDocumentBounds">
                                   <DelegateInArgument x:TypeArguments="p2:ResultsDocumentBounds" Name="DocumentBounds" />
                                 </DelegateArgumentValue>
                               </InArgument>
                             </p4:FormExtractor.DocumentBounds>
                             <p4:FormExtractor.DocumentObjectModel>
                               <InArgument x:TypeArguments="p3:Document">
-                                <DelegateArgumentValue x:TypeArguments="p3:Document" sap2010:WorkflowViewState.IdRef="DelegateArgumentValue`1_4">
+                                <DelegateArgumentValue x:TypeArguments="p3:Document">
                                   <DelegateInArgument x:TypeArguments="p3:Document" Name="DocumentObjectModel" />
                                 </DelegateArgumentValue>
                               </InArgument>
                             </p4:FormExtractor.DocumentObjectModel>
                             <p4:FormExtractor.DocumentPath>
                               <InArgument x:TypeArguments="x:String">
-                                <DelegateArgumentValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="DelegateArgumentValue`1_5">
+                                <DelegateArgumentValue x:TypeArguments="x:String">
                                   <DelegateInArgument x:TypeArguments="x:String" Name="DocumentPath" />
                                 </DelegateArgumentValue>
                               </InArgument>
                             </p4:FormExtractor.DocumentPath>
                             <p4:FormExtractor.DocumentText>
                               <InArgument x:TypeArguments="x:String">
-                                <DelegateArgumentValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="DelegateArgumentValue`1_3">
+                                <DelegateArgumentValue x:TypeArguments="x:String">
                                   <DelegateInArgument x:TypeArguments="x:String" Name="DocumentText" />
                                 </DelegateArgumentValue>
                               </InArgument>
                             </p4:FormExtractor.DocumentText>
                             <p4:FormExtractor.ExtractorDocumentType>
                               <InArgument x:TypeArguments="p5:ExtractorDocumentType">
-                                <DelegateArgumentValue x:TypeArguments="p5:ExtractorDocumentType" sap2010:WorkflowViewState.IdRef="DelegateArgumentValue`1_1">
+                                <DelegateArgumentValue x:TypeArguments="p5:ExtractorDocumentType">
                                   <DelegateInArgument x:TypeArguments="p5:ExtractorDocumentType" Name="ExtractorDocumentType" />
                                 </DelegateArgumentValue>
                               </InArgument>
                             </p4:FormExtractor.ExtractorDocumentType>
                             <p4:FormExtractor.ExtractorResult>
                               <OutArgument x:TypeArguments="p5:ExtractorResult">
-                                <DelegateArgumentReference x:TypeArguments="p5:ExtractorResult" sap2010:WorkflowViewState.IdRef="DelegateArgumentReference`1_1">
+                                <DelegateArgumentReference x:TypeArguments="p5:ExtractorResult">
                                   <DelegateOutArgument x:TypeArguments="p5:ExtractorResult" Name="ExtractorResult" />
                                 </DelegateArgumentReference>
                               </OutArgument>
@@ -267,11 +267,11 @@
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <av:Point x:Key="ShapeLocation">130,666</av:Point>
-                        <av:Size x:Key="ShapeSize">200,66</av:Size>
+                        <av:Size x:Key="ShapeSize">200,68</av:Size>
                         <av:PointCollection x:Key="ConnectorLocation">230,734 230,764 350,764 350,876</av:PointCollection>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
-                    <Sequence DisplayName="Process Invoice" sap:VirtualizedContainerService.HintSize="476,486" sap2010:WorkflowViewState.IdRef="Sequence_2">
+                    <Sequence DisplayName="Process Invoice" sap:VirtualizedContainerService.HintSize="200,68" sap2010:WorkflowViewState.IdRef="Sequence_2">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -283,42 +283,42 @@
                           <p6:MachineLearningExtractor AvailableMLSkills="{x:Null}" SelectedMLSkill="{x:Null}" ApiKey="jJ8IBULByw4sjKJxVxGhzkapTHAKs2LB0x80W+Ct0JfdOsZ0vbL5brQ7wSJnTbkv" Configuration="{}{&quot;Endpoint&quot;:&quot;https://invoices.uipath.com&quot;}" DisplayName="Machine Learning Extractor" Endpoint="https://invoices.uipath.com/" sap:VirtualizedContainerService.HintSize="234,192" sap2010:WorkflowViewState.IdRef="MachineLearningExtractor_1" PersistenceId="UIba82ca5147284f4a9bcd4fc563e07f2e" RetryOnFailure="True" UseServerSideOCR="True">
                             <p6:MachineLearningExtractor.DocumentBounds>
                               <InArgument x:TypeArguments="p2:ResultsDocumentBounds">
-                                <DelegateArgumentValue x:TypeArguments="p2:ResultsDocumentBounds" sap2010:WorkflowViewState.IdRef="DelegateArgumentValue`1_7">
+                                <DelegateArgumentValue x:TypeArguments="p2:ResultsDocumentBounds">
                                   <DelegateInArgument x:TypeArguments="p2:ResultsDocumentBounds" Name="DocumentBounds" />
                                 </DelegateArgumentValue>
                               </InArgument>
                             </p6:MachineLearningExtractor.DocumentBounds>
                             <p6:MachineLearningExtractor.DocumentObjectModel>
                               <InArgument x:TypeArguments="p3:Document">
-                                <DelegateArgumentValue x:TypeArguments="p3:Document" sap2010:WorkflowViewState.IdRef="DelegateArgumentValue`1_9">
+                                <DelegateArgumentValue x:TypeArguments="p3:Document">
                                   <DelegateInArgument x:TypeArguments="p3:Document" Name="DocumentObjectModel" />
                                 </DelegateArgumentValue>
                               </InArgument>
                             </p6:MachineLearningExtractor.DocumentObjectModel>
                             <p6:MachineLearningExtractor.DocumentPath>
                               <InArgument x:TypeArguments="x:String">
-                                <DelegateArgumentValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="DelegateArgumentValue`1_10">
+                                <DelegateArgumentValue x:TypeArguments="x:String">
                                   <DelegateInArgument x:TypeArguments="x:String" Name="DocumentPath" />
                                 </DelegateArgumentValue>
                               </InArgument>
                             </p6:MachineLearningExtractor.DocumentPath>
                             <p6:MachineLearningExtractor.DocumentText>
                               <InArgument x:TypeArguments="x:String">
-                                <DelegateArgumentValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="DelegateArgumentValue`1_8">
+                                <DelegateArgumentValue x:TypeArguments="x:String">
                                   <DelegateInArgument x:TypeArguments="x:String" Name="DocumentText" />
                                 </DelegateArgumentValue>
                               </InArgument>
                             </p6:MachineLearningExtractor.DocumentText>
                             <p6:MachineLearningExtractor.ExtractorDocumentType>
                               <InArgument x:TypeArguments="p5:ExtractorDocumentType">
-                                <DelegateArgumentValue x:TypeArguments="p5:ExtractorDocumentType" sap2010:WorkflowViewState.IdRef="DelegateArgumentValue`1_6">
+                                <DelegateArgumentValue x:TypeArguments="p5:ExtractorDocumentType">
                                   <DelegateInArgument x:TypeArguments="p5:ExtractorDocumentType" Name="ExtractorDocumentType" />
                                 </DelegateArgumentValue>
                               </InArgument>
                             </p6:MachineLearningExtractor.ExtractorDocumentType>
                             <p6:MachineLearningExtractor.ExtractorResult>
                               <OutArgument x:TypeArguments="p5:ExtractorResult">
-                                <DelegateArgumentReference x:TypeArguments="p5:ExtractorResult" sap2010:WorkflowViewState.IdRef="DelegateArgumentReference`1_2">
+                                <DelegateArgumentReference x:TypeArguments="p5:ExtractorResult">
                                   <DelegateOutArgument x:TypeArguments="p5:ExtractorResult" Name="ExtractorResult" />
                                 </DelegateArgumentReference>
                               </OutArgument>
@@ -338,10 +338,10 @@
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <av:Point x:Key="ShapeLocation">540,274</av:Point>
-                      <av:Size x:Key="ShapeSize">200,51</av:Size>
+                      <av:Size x:Key="ShapeSize">200,52</av:Size>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke Documentnotrecognized workflow" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" UnSafe="False" WorkflowFileName="Documentnotrecognized.xaml">
+                  <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke Documentnotrecognized workflow" sap:VirtualizedContainerService.HintSize="200,52" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" UnSafe="False" WorkflowFileName="Documentnotrecognized.xaml">
                     <ui:InvokeWorkflowFile.Arguments>
                       <InArgument x:TypeArguments="x:String" x:Key="inputFile">[DocumentPath]</InArgument>
                       <InOutArgument x:TypeArguments="x:String" x:Key="outPutFile">[outputFile]</InOutArgument>
@@ -366,5 +366,20 @@
     <x:Reference>__ReferenceID5</x:Reference>
     <x:Reference>__ReferenceID0</x:Reference>
     <x:Reference>__ReferenceID6</x:Reference>
+    <FlowStep>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <av:Point x:Key="ShapeLocation">580,396</av:Point>
+          <av:Size x:Key="ShapeSize">200,68</av:Size>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <Sequence DisplayName="Recognize ID" sap:VirtualizedContainerService.HintSize="200,68" sap2010:WorkflowViewState.IdRef="Sequence_8">
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </Sequence>
+    </FlowStep>
   </Flowchart>
 </Activity>
