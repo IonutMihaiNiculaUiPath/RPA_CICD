@@ -56,10 +56,15 @@
         "fileName": "TestCases\\Not Recognized Test.xaml"
       },
       {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "7a71dd38-347f-470c-8514-60213e8a1b24",
         "dataVariationFilePath": ".variations\\CoverageTest Input_CoverageTest Input.json",
         "fileName": "TestCases\\Coverage Test.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "74a84597-29d0-45a9-b29d-895c8afd4f4d",
+        "fileName": "TestClassifiacation.xaml"
       }
     ],
     "modernBehavior": false
