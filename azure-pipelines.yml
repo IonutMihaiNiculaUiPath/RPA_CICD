@@ -18,12 +18,12 @@ steps:
 - task: UiPathTest@2
   inputs:
     testTarget: 'TestSet'
-    orchestratorConnection: 'Test Orchestrator'
+    orchestratorConnection: 'Staging Orchestrator TestSuite'
     testSet: 'UiBank Background Tests'
     folderName: 'Ionut Nicula'
 - task: UiPathDeploy@2
   inputs:
-    orchestratorConnection: 'Test Orchestrator'
+    orchestratorConnection: 'Staging Orchestrator TestSuite'
     packagesPath: '$(Build.ArtifactStagingDirectory)\Output'
     folderName: 'Ionut Nicula'
     entryPoints: 'Main.xaml'
