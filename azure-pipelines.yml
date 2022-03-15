@@ -20,6 +20,9 @@ steps:
     testTarget: 'TestProject'
     orchestratorConnection: 'Staging Orchestrator TestSuite'
     folderName: 'Ionut Nicula'
+  env:
+    OrchestratorClientIdOverride: "ADLqfy4M6cRUaEL6XOxiKpMqyPvjTuUi"
+    OrchestratorAuthorizationUriOverride: "https://id-preprod.uipath.com"
 - task: UiPathDeploy@2
   inputs:
     orchestratorConnection: 'Staging Orchestrator TestSuite'
