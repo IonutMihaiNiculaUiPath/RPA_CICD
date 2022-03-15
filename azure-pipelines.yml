@@ -18,14 +18,14 @@ steps:
 - task: UiPathTest@2
   inputs:
     testTarget: 'TestProject'
-    orchestratorConnection: 'Staging Orchestrator TestSuite'
+    orchestratorConnection: 'Staging Orchestrator TestSuite Token'
     folderName: 'Ionut Nicula'
   env:
     OrchestratorClientIdOverride: "ADLqfy4M6cRUaEL6XOxiKpMqyPvjTuUi"
     OrchestratorAuthorizationUriOverride: "https://id-preprod.uipath.com"
 - task: UiPathDeploy@2
   inputs:
-    orchestratorConnection: 'Staging Orchestrator TestSuite'
+    orchestratorConnection: 'Staging Orchestrator TestSuite Token'
     packagesPath: '$(Build.ArtifactStagingDirectory)\Output'
     folderName: 'Ionut Nicula'
     entryPoints: 'Main.xaml'
