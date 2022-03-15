@@ -1,7 +1,7 @@
 {
   "name": "RPA_DocumentProcessing",
   "description": "",
-  "main": "Flowchart_Document Processing.xaml",
+  "main": "Main.xaml",
   "dependencies": {
     "UiPath.DocumentUnderstanding.ML.Activities": "[1.2.1]",
     "UiPath.Excel.Activities": "[2.8.5]",
@@ -72,6 +72,12 @@
     {
       "filePath": "Flowchart_Document Processing.xaml",
       "uniqueId": "5991d8c1-0bb7-4a34-9284-a65fb930fa77",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "11bb4f01-59a8-4b85-91a5-b2381c2ab20c",
       "input": [],
       "output": []
     }
