@@ -1638,7 +1638,7 @@
         }
       }
     },
-    ".NETFramework,Version=v4.6.1/win7-x86": {
+    ".NETFramework,Version=v4.6.1/win10-x64": {
       "AForge/2.2.5": {
         "type": "package",
         "compile": {
@@ -5065,15 +5065,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\": {}
+    "C:\\Users\\ionut.nicula\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "RPA_DocumentProcessing",
       "projectName": "RPA_DocumentProcessing",
-      "projectPath": "C:\\Users\\ionut-mihai.nicula\\OneDrive - UiPath\\Presales\\1. Demos\\Test Suite\\Projects\\RPA_CICD\\.local",
-      "packagesPath": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ionut-mihai.nicula\\OneDrive - UiPath\\Presales\\1. Demos\\Test Suite\\Projects\\RPA_CICD\\.local"
+      "projectPath": "C:\\Users\\ionut.nicula\\OneDrive - UiPath\\Presales\\Projects\\RPA_CICD\\.local",
+      "packagesPath": "C:\\Users\\ionut.nicula\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ionut.nicula\\OneDrive - UiPath\\Presales\\Projects\\RPA_CICD\\.local"
     },
     "frameworks": {
       "net461": {
@@ -5114,7 +5114,12 @@
             "version": "[20.4.1, 20.4.1]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\ionut-mihai.nicula\\AppData\\Local\\UiPath\\app-21.4.4\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPath\\Studio\\runtime.json"
+      }
+    },
+    "runtimes": {
+      "win10-x64": {
+        "#import": []
       }
     }
   }

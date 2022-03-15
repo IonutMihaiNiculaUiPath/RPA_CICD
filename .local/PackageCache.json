@@ -6,18 +6,18 @@
         "Version": "1.2.1"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\bitmiracle.docotic.pdf/5.10.9957\\lib/net40/BitMiracle.Docotic.Pdf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\polly/7.1.0\\lib/netstandard2.0/Polly.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.documentprocessing.contracts/1.6.1\\lib/net461/UiPath.DocumentProcessing.Contracts.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities/1.2.1\\lib/net461/UiPath.DocumentUnderstanding.ML.Activities.Design.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities/1.2.1\\lib/net461/UiPath.DocumentUnderstanding.ML.Activities.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities/1.2.1\\lib/net461/UiPath.DocumentUnderstanding.ML.AiFabricClient.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities/1.2.1\\lib/net461/UiPath.DocumentUnderstanding.ML.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities/1.2.1\\lib/net461/UiPath.DocumentUnderstanding.ML.OrchestratorClient.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\bitmiracle.docotic.pdf/5.10.9957\\lib/net40/BitMiracle.Docotic.Pdf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\polly/7.1.0\\lib/netstandard2.0/Polly.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.documentprocessing.contracts/1.6.1\\lib/net461/UiPath.DocumentProcessing.Contracts.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities/1.2.1\\lib/net461/UiPath.DocumentUnderstanding.ML.Activities.Design.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities/1.2.1\\lib/net461/UiPath.DocumentUnderstanding.ML.Activities.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities/1.2.1\\lib/net461/UiPath.DocumentUnderstanding.ML.AiFabricClient.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities/1.2.1\\lib/net461/UiPath.DocumentUnderstanding.ML.OrchestratorClient.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities/1.2.1\\lib/net461/UiPath.DocumentUnderstanding.ML.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1"
     },
     {
       "Package": {
@@ -25,20 +25,20 @@
         "Version": "2.8.5"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\sharpziplib/1.0.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.excel.activities/2.8.5\\lib/net461/UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.excel.activities/2.8.5\\lib/net461/UiPath.Excel.Activities.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.excel.activities/2.8.5\\lib/net461/UiPath.Excel.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\sharpziplib/1.0.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.excel.activities/2.8.5\\lib/net461/UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.excel.activities/2.8.5\\lib/net461/UiPath.Excel.Activities.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.excel.activities/2.8.5\\lib/net461/UiPath.Excel.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.excel.activities\\2.8.5"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.excel.activities\\2.8.5"
     },
     {
       "Package": {
@@ -46,70 +46,70 @@
         "Version": "4.5.2"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\aforge/2.2.5\\lib/AForge.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\aforge.genetic/2.2.5\\lib/AForge.Genetic.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\aforge.imaging/2.2.5\\lib/AForge.Imaging.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\aforge.math/2.2.5\\lib/AForge.Math.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\aforge.neuro/2.2.5\\lib/AForge.Neuro.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\bitmiracle.docotic.pdf/5.10.9957\\lib/net40/BitMiracle.Docotic.Pdf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\fsharp.core/4.0.0.1\\lib/net40/FSharp.Core.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\ivanakcheurov.ntextcat.lib/0.2.1.1\\lib/net40/IvanAkcheurov.Commons.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\ivanakcheurov.ntextcat.lib/0.2.1.1\\lib/net40/IvanAkcheurov.NClassify.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\ivanakcheurov.ntextcat.lib/0.2.1.1\\lib/net40/IvanAkcheurov.NTextCat.Lib.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\mathnet.numerics/4.5.1\\lib/net461/MathNet.Numerics.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\metrics.net/0.5.5\\lib/net45/Metrics.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\microsoft.xaml.behaviors.wpf/1.0.1\\lib/net45/Microsoft.Xaml.Behaviors.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\numsense/0.12.0\\lib/net45/Ploeh.Numsense.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\system.collections.immutable/1.5.0\\lib/netstandard2.0/System.Collections.Immutable.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\system.io.compression/4.3.0\\runtimes/win/lib/net46/System.IO.Compression.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation/4.3.0\\runtimes/win/lib/net45/System.Runtime.InteropServices.RuntimeInformation.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/CefSharp.BrowserSubprocess.Core.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/CefSharp.Core.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/CefSharp.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/CefSharp.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/chrome_elf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/d3dcompiler_47.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/libcef.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/libEGL.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/libGLESv2.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/msvcp140.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/UiPath.CEFSharpBundle.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/vcruntime140.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/swiftshader/libEGL.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/swiftshader/libGLESv2.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.documentprocessing.contracts/1.6.1\\lib/net461/UiPath.DocumentProcessing.Contracts.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.DocumentUnderstanding.Contracts.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.DocumentUnderstanding.Persistence.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.IntelligentOCR.Activities.Design.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.IntelligentOCR.Activities.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.IntelligentOCR.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.Data.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.Digitization.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.DocumentClassification.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.Host.Local.Infrastructure.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.ImageProcessing.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.Language.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.Localization.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.OCR.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.OutOfProcessUi.Common.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.PDF.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.PositionBasedExtraction.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.TableProcessing.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.TaxonomyManager.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.TaxonomyManager.Host.Local.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.Utils.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.ValidationStation.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.ValidationStation.Host.Local.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.ValidationStation.Integration.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.ValidationStation.ValueParsing.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.WPF.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.ocr.contracts/2.6.0\\lib/net461/UiPath.OCR.Contracts.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\aforge/2.2.5\\lib/AForge.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\aforge.genetic/2.2.5\\lib/AForge.Genetic.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\aforge.imaging/2.2.5\\lib/AForge.Imaging.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\aforge.math/2.2.5\\lib/AForge.Math.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\aforge.neuro/2.2.5\\lib/AForge.Neuro.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\bitmiracle.docotic.pdf/5.10.9957\\lib/net40/BitMiracle.Docotic.Pdf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\fsharp.core/4.0.0.1\\lib/net40/FSharp.Core.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\ivanakcheurov.ntextcat.lib/0.2.1.1\\lib/net40/IvanAkcheurov.Commons.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\ivanakcheurov.ntextcat.lib/0.2.1.1\\lib/net40/IvanAkcheurov.NClassify.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\ivanakcheurov.ntextcat.lib/0.2.1.1\\lib/net40/IvanAkcheurov.NTextCat.Lib.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\mathnet.numerics/4.5.1\\lib/net461/MathNet.Numerics.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\metrics.net/0.5.5\\lib/net45/Metrics.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\microsoft.xaml.behaviors.wpf/1.0.1\\lib/net45/Microsoft.Xaml.Behaviors.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\numsense/0.12.0\\lib/net45/Ploeh.Numsense.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\system.collections.immutable/1.5.0\\lib/netstandard2.0/System.Collections.Immutable.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\system.io.compression/4.3.0\\runtimes/win/lib/net46/System.IO.Compression.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation/4.3.0\\runtimes/win/lib/net45/System.Runtime.InteropServices.RuntimeInformation.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/CefSharp.BrowserSubprocess.Core.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/CefSharp.Core.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/CefSharp.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/CefSharp.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/UiPath.CEFSharpBundle.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/chrome_elf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/d3dcompiler_47.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/libEGL.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/libGLESv2.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/libcef.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/msvcp140.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/swiftshader/libEGL.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/swiftshader/libGLESv2.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/vcruntime140.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.documentprocessing.contracts/1.6.1\\lib/net461/UiPath.DocumentProcessing.Contracts.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.DocumentUnderstanding.Contracts.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.DocumentUnderstanding.Persistence.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.IntelligentOCR.Activities.Design.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.IntelligentOCR.Activities.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.IntelligentOCR.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.Data.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.Digitization.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.DocumentClassification.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.Host.Local.Infrastructure.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.ImageProcessing.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.Language.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.Localization.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.OCR.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.OutOfProcessUi.Common.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.PDF.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.PositionBasedExtraction.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.TableProcessing.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.TaxonomyManager.Host.Local.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.TaxonomyManager.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.Utils.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.ValidationStation.Host.Local.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.ValidationStation.Integration.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.ValidationStation.ValueParsing.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.ValidationStation.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities/4.5.2\\lib/net461/UiPath.SmartData.WPF.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.ocr.contracts/2.6.0\\lib/net461/UiPath.OCR.Contracts.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2"
     },
     {
       "Package": {
@@ -117,73 +117,73 @@
         "Version": "1.5.0"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.ocr.contracts/2.6.0\\lib/net461/UiPath.OCR.Contracts.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.activities/1.5.0\\lib/net461/UiPath.OmniPage.Activities.Design.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.activities/1.5.0\\lib/net461/UiPath.OmniPage.Activities.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.activities/1.5.0\\lib/net461/UiPath.Vision.OmniPage.Core.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.activities/1.5.0\\lib/net461/UiPath.Vision.OmniPage.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/AppHelper.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/AppProductConfig.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/AppUtils.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/atm2lll.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Bnt.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/CRX.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Defaults.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Firewrx.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/FireWrx2.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/FireWrx3.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/FireWrx4.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/FireWrx5.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/FireWrx6.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Formatter.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/ICDLLW32.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/ICHUNW32.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/IF_PNG.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/jp2k_kdu_apps_vnew.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/kdu_vnewR.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/KernelAPI.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/LecsoMgr.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/LEditor.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/MiddleEarth.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Mor.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Mor2.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Mor3.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Mor4.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Mor5.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Mor6.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/MorIF.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/msvcp140.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Nuance.OmniPage.CSDK.ArgTypes.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Nuance.OmniPage.CSDK.CAPI.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Nuance.OmniPage.CSDK.Objects.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/pccext.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/pccext2.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/pccext3.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/pccext4.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/pccext5.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/pccext6.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/PreRendering.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/RecAPIPlus.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/RecDiag.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/RecPDFNet.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Rendering.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Rendering2.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/rndsdawg.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/rndsinso.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/SkinnedClasses.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/SkinnedWindows.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/SPDFLib.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/UiPath.OmniPage.Bundle.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/vcruntime140.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/xocr.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/xocr2.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/xocr3.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/xocr4.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/xocr5.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/xocr6.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.ocr.contracts/2.6.0\\lib/net461/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.activities/1.5.0\\lib/net461/UiPath.OmniPage.Activities.Design.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.activities/1.5.0\\lib/net461/UiPath.OmniPage.Activities.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.activities/1.5.0\\lib/net461/UiPath.Vision.OmniPage.Core.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.activities/1.5.0\\lib/net461/UiPath.Vision.OmniPage.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/AppHelper.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/AppProductConfig.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/AppUtils.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Bnt.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/CRX.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Defaults.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/FireWrx2.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/FireWrx3.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/FireWrx4.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/FireWrx5.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/FireWrx6.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Firewrx.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Formatter.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/ICDLLW32.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/ICHUNW32.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/IF_PNG.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/KernelAPI.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/LEditor.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/LecsoMgr.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/MiddleEarth.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Mor.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Mor2.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Mor3.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Mor4.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Mor5.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Mor6.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/MorIF.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Nuance.OmniPage.CSDK.ArgTypes.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Nuance.OmniPage.CSDK.CAPI.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Nuance.OmniPage.CSDK.Objects.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/PreRendering.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/RecAPIPlus.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/RecDiag.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/RecPDFNet.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Rendering.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Rendering2.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/SPDFLib.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/SkinnedClasses.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/SkinnedWindows.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/UiPath.OmniPage.Bundle.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/atm2lll.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/jp2k_kdu_apps_vnew.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/kdu_vnewR.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/msvcp140.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/pccext.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/pccext2.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/pccext3.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/pccext4.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/pccext5.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/pccext6.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/rndsdawg.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/rndsinso.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/vcruntime140.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/xocr.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/xocr2.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/xocr3.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/xocr4.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/xocr5.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/xocr6.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0"
     },
     {
       "Package": {
@@ -191,24 +191,24 @@
         "Version": "20.4.0"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\microsoft.aspnet.signalr.client/2.4.0\\lib/net45/Microsoft.AspNet.SignalR.Client.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Text.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/UiPath.OrchestratorClient.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/UiPath.System.Activities.Design.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/UiPath.System.Activities.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\microsoft.aspnet.signalr.client/2.4.0\\lib/net45/Microsoft.AspNet.SignalR.Client.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/UiPath.OrchestratorClient.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/UiPath.System.Activities.Design.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/UiPath.System.Activities.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0"
     },
     {
       "Package": {
@@ -216,18 +216,18 @@
         "Version": "1.2.4"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\automapper/9.0.0\\lib/net461/AutoMapper.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\microsoft.xaml.behaviors.wpf/1.0.1\\lib/net45/Microsoft.Xaml.Behaviors.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\restsharp/106.6.10\\lib/net452/RestSharp.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.testing.activities/1.2.4\\lib/net461/UiPath.Orchestrator.Client.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.testing.activities/1.2.4\\lib/net461/UiPath.Testing.Activities.Design.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.testing.activities/1.2.4\\lib/net461/UiPath.Testing.Activities.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.testing.activities/1.2.4\\lib/net461/UiPath.Testing.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.testing.activities/1.2.4\\lib/net461/UiPath.Web.Client.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\automapper/9.0.0\\lib/net461/AutoMapper.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\microsoft.xaml.behaviors.wpf/1.0.1\\lib/net45/Microsoft.Xaml.Behaviors.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\restsharp/106.6.10\\lib/net452/RestSharp.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.testing.activities/1.2.4\\lib/net461/UiPath.Orchestrator.Client.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.testing.activities/1.2.4\\lib/net461/UiPath.Testing.Activities.Design.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.testing.activities/1.2.4\\lib/net461/UiPath.Testing.Activities.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.testing.activities/1.2.4\\lib/net461/UiPath.Testing.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.testing.activities/1.2.4\\lib/net461/UiPath.Web.Client.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.testing.activities\\1.2.4"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.testing.activities\\1.2.4"
     },
     {
       "Package": {
@@ -235,48 +235,48 @@
         "Version": "20.4.1"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\system.threading.tasks.dataflow/4.10.0\\lib/netstandard2.0/System.Threading.Tasks.Dataflow.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath/20.4.7422.14731\\lib/UiPath.Interop.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.ocr.contracts/2.6.0\\lib/net461/UiPath.OCR.Contracts.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.platform/20.4.0\\lib/net461/UiPath.Platform.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.telemetry.client/1.1.51\\lib/net461/TelemetryClient.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.DataGrid.Contrib.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Editors.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Text.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/UiPath.CV.Activities.Design.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/UiPath.CV.Activities.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/UiPath.CV.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/UiPath.UiAutomation.Activities.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/UiPath.Wizards.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.AzureComputerVision.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.Core.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.Microsoft.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.MicrosoftCloud.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\system.threading.tasks.dataflow/4.10.0\\lib/netstandard2.0/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath/20.4.7422.14731\\lib/UiPath.Interop.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.ocr.contracts/2.6.0\\lib/net461/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.platform/20.4.0\\lib/net461/UiPath.Platform.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.telemetry.client/1.1.51\\lib/net461/TelemetryClient.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.DataGrid.Contrib.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Editors.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/UiPath.CV.Activities.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/UiPath.CV.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/UiPath.Wizards.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.Core.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.Microsoft.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.MicrosoftCloud.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1"
     }
   ],
   "Conflicts": [],
@@ -837,9 +837,9 @@
         "Version": "2.2.5"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\aforge\\2.2.5\\lib\\AForge.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\aforge\\2.2.5\\lib\\AForge.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\aforge\\2.2.5"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\aforge\\2.2.5"
     },
     {
       "Package": {
@@ -847,9 +847,9 @@
         "Version": "2.2.5"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\aforge.genetic\\2.2.5\\lib\\AForge.Genetic.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\aforge.genetic\\2.2.5\\lib\\AForge.Genetic.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\aforge.genetic\\2.2.5"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\aforge.genetic\\2.2.5"
     },
     {
       "Package": {
@@ -857,9 +857,9 @@
         "Version": "2.2.5"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\aforge.imaging\\2.2.5\\lib\\AForge.Imaging.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\aforge.imaging\\2.2.5\\lib\\AForge.Imaging.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\aforge.imaging\\2.2.5"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\aforge.imaging\\2.2.5"
     },
     {
       "Package": {
@@ -867,9 +867,9 @@
         "Version": "2.2.5"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\aforge.math\\2.2.5\\lib\\AForge.Math.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\aforge.math\\2.2.5\\lib\\AForge.Math.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\aforge.math\\2.2.5"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\aforge.math\\2.2.5"
     },
     {
       "Package": {
@@ -877,9 +877,9 @@
         "Version": "2.2.5"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\aforge.neuro\\2.2.5\\lib\\AForge.Neuro.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\aforge.neuro\\2.2.5\\lib\\AForge.Neuro.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\aforge.neuro\\2.2.5"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\aforge.neuro\\2.2.5"
     },
     {
       "Package": {
@@ -887,9 +887,9 @@
         "Version": "9.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\automapper\\9.0.0\\lib\\net461\\AutoMapper.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\automapper\\9.0.0\\lib\\net461\\AutoMapper.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\automapper\\9.0.0"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\automapper\\9.0.0"
     },
     {
       "Package": {
@@ -897,9 +897,9 @@
         "Version": "5.0.3"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\avalonedit\\5.0.3\\lib\\Net40\\ICSharpCode.AvalonEdit.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\avalonedit\\5.0.3\\lib\\Net40\\ICSharpCode.AvalonEdit.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\avalonedit\\5.0.3"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\avalonedit\\5.0.3"
     },
     {
       "Package": {
@@ -907,9 +907,9 @@
         "Version": "5.10.9957"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\bitmiracle.docotic.pdf\\5.10.9957\\lib\\net40\\BitMiracle.Docotic.Pdf.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\bitmiracle.docotic.pdf\\5.10.9957\\lib\\net40\\BitMiracle.Docotic.Pdf.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\bitmiracle.docotic.pdf\\5.10.9957"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\bitmiracle.docotic.pdf\\5.10.9957"
     },
     {
       "Package": {
@@ -917,9 +917,9 @@
         "Version": "0.87.1"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\closedxml\\0.87.1\\lib\\net40\\ClosedXML.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\closedxml\\0.87.1\\lib\\net40\\ClosedXML.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\closedxml\\0.87.1"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\closedxml\\0.87.1"
     },
     {
       "Package": {
@@ -927,9 +927,9 @@
         "Version": "2.13.5"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\csvhelper\\2.13.5\\lib\\net40-client\\CsvHelper.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\csvhelper\\2.13.5\\lib\\net40-client\\CsvHelper.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\csvhelper\\2.13.5"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\csvhelper\\2.13.5"
     },
     {
       "Package": {
@@ -937,9 +937,9 @@
         "Version": "2.5.0"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\documentformat.openxml\\2.5.0\\lib\\DocumentFormat.OpenXml.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\documentformat.openxml\\2.5.0\\lib\\DocumentFormat.OpenXml.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\documentformat.openxml\\2.5.0"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\documentformat.openxml\\2.5.0"
     },
     {
       "Package": {
@@ -947,14 +947,14 @@
         "Version": "2.8.0"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Aero.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Metro.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.DataGrid.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.Toolkit.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.DataGrid.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.Toolkit.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0"
     },
     {
       "Package": {
@@ -962,9 +962,9 @@
         "Version": "4.0.0.1"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\fsharp.core\\4.0.0.1\\lib\\net40\\FSharp.Core.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\fsharp.core\\4.0.0.1\\lib\\net40\\FSharp.Core.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\fsharp.core\\4.0.0.1"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\fsharp.core\\4.0.0.1"
     },
     {
       "Package": {
@@ -972,9 +972,9 @@
         "Version": "2.4.2"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\humanizer.core\\2.4.2\\lib\\netstandard2.0\\Humanizer.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\humanizer.core\\2.4.2\\lib\\netstandard2.0\\Humanizer.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\humanizer.core\\2.4.2"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\humanizer.core\\2.4.2"
     },
     {
       "Package": {
@@ -982,11 +982,11 @@
         "Version": "0.2.1.1"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\ivanakcheurov.ntextcat.lib\\0.2.1.1\\lib\\net40\\IvanAkcheurov.Commons.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\ivanakcheurov.ntextcat.lib\\0.2.1.1\\lib\\net40\\IvanAkcheurov.NClassify.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\ivanakcheurov.ntextcat.lib\\0.2.1.1\\lib\\net40\\IvanAkcheurov.NTextCat.Lib.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\ivanakcheurov.ntextcat.lib\\0.2.1.1\\lib\\net40\\IvanAkcheurov.Commons.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\ivanakcheurov.ntextcat.lib\\0.2.1.1\\lib\\net40\\IvanAkcheurov.NClassify.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\ivanakcheurov.ntextcat.lib\\0.2.1.1\\lib\\net40\\IvanAkcheurov.NTextCat.Lib.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\ivanakcheurov.ntextcat.lib\\0.2.1.1"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\ivanakcheurov.ntextcat.lib\\0.2.1.1"
     },
     {
       "Package": {
@@ -994,9 +994,9 @@
         "Version": "4.5.1"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\mathnet.numerics\\4.5.1\\lib\\net461\\MathNet.Numerics.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\mathnet.numerics\\4.5.1\\lib\\net461\\MathNet.Numerics.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\mathnet.numerics\\4.5.1"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\mathnet.numerics\\4.5.1"
     },
     {
       "Package": {
@@ -1004,9 +1004,9 @@
         "Version": "0.5.5"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\metrics.net\\0.5.5\\lib\\net45\\Metrics.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\metrics.net\\0.5.5\\lib\\net45\\Metrics.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\metrics.net\\0.5.5"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\metrics.net\\0.5.5"
     },
     {
       "Package": {
@@ -1014,9 +1014,9 @@
         "Version": "2.4.0"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\lib\\net45\\Microsoft.AspNet.SignalR.Client.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\lib\\net45\\Microsoft.AspNet.SignalR.Client.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0"
     },
     {
       "Package": {
@@ -1024,9 +1024,9 @@
         "Version": "2.3.21"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\lib\\net461\\Microsoft.Rest.ClientRuntime.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\lib\\net461\\Microsoft.Rest.ClientRuntime.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21"
     },
     {
       "Package": {
@@ -1034,9 +1034,9 @@
         "Version": "7.10.6071"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\7.10.6071\\lib\\Microsoft.VisualStudio.OLE.Interop.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\7.10.6071\\lib\\Microsoft.VisualStudio.OLE.Interop.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\7.10.6071"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\7.10.6071"
     },
     {
       "Package": {
@@ -1044,9 +1044,9 @@
         "Version": "1.0.1"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.0.1\\lib\\net45\\Microsoft.Xaml.Behaviors.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.0.1\\lib\\net45\\Microsoft.Xaml.Behaviors.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.0.1"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.0.1"
     },
     {
       "Package": {
@@ -1054,9 +1054,9 @@
         "Version": "12.0.3"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\newtonsoft.json\\12.0.3\\lib\\net45\\Newtonsoft.Json.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\newtonsoft.json\\12.0.3\\lib\\net45\\Newtonsoft.Json.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\newtonsoft.json\\12.0.3"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\newtonsoft.json\\12.0.3"
     },
     {
       "Package": {
@@ -1064,12 +1064,12 @@
         "Version": "2.4.1"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OOXML.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXml4Net.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OOXML.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXml4Net.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\npoi\\2.4.1"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\npoi\\2.4.1"
     },
     {
       "Package": {
@@ -1077,9 +1077,9 @@
         "Version": "0.12.0"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\numsense\\0.12.0\\lib\\net45\\Ploeh.Numsense.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\numsense\\0.12.0\\lib\\net45\\Ploeh.Numsense.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\numsense\\0.12.0"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\numsense\\0.12.0"
     },
     {
       "Package": {
@@ -1087,9 +1087,9 @@
         "Version": "7.1.0"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\polly\\7.1.0\\lib\\netstandard2.0\\Polly.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\polly\\7.1.0\\lib\\netstandard2.0\\Polly.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\polly\\7.1.0"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\polly\\7.1.0"
     },
     {
       "Package": {
@@ -1097,9 +1097,9 @@
         "Version": "106.6.10"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\restsharp\\106.6.10\\lib\\net452\\RestSharp.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\restsharp\\106.6.10\\lib\\net452\\RestSharp.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\restsharp\\106.6.10"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\restsharp\\106.6.10"
     },
     {
       "Package": {
@@ -1107,9 +1107,9 @@
         "Version": "1.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\sharpziplib\\1.0.0\\lib\\net45\\ICSharpCode.SharpZipLib.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\sharpziplib\\1.0.0\\lib\\net45\\ICSharpCode.SharpZipLib.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\sharpziplib\\1.0.0"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\sharpziplib\\1.0.0"
     },
     {
       "Package": {
@@ -1117,9 +1117,9 @@
         "Version": "1.5.0"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\system.collections.immutable\\1.5.0\\lib\\netstandard2.0\\System.Collections.Immutable.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\system.collections.immutable\\1.5.0\\lib\\netstandard2.0\\System.Collections.Immutable.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\system.collections.immutable\\1.5.0"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\system.collections.immutable\\1.5.0"
     },
     {
       "Package": {
@@ -1127,9 +1127,9 @@
         "Version": "3.0.10"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib\\net40\\System.IO.Abstractions.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib\\net40\\System.IO.Abstractions.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\system.io.abstractions\\3.0.10"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\system.io.abstractions\\3.0.10"
     },
     {
       "Package": {
@@ -1137,9 +1137,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\system.io.compression\\4.3.0\\lib\\net46\\System.IO.Compression.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\system.io.compression\\4.3.0\\lib\\net46\\System.IO.Compression.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\system.io.compression\\4.3.0"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\system.io.compression\\4.3.0"
     },
     {
       "Package": {
@@ -1147,9 +1147,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\lib\\net45\\System.Runtime.InteropServices.RuntimeInformation.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\lib\\net45\\System.Runtime.InteropServices.RuntimeInformation.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0"
     },
     {
       "Package": {
@@ -1157,9 +1157,9 @@
         "Version": "4.10.0"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\system.threading.tasks.dataflow\\4.10.0\\lib\\netstandard2.0\\System.Threading.Tasks.Dataflow.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\system.threading.tasks.dataflow\\4.10.0\\lib\\netstandard2.0\\System.Threading.Tasks.Dataflow.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\system.threading.tasks.dataflow\\4.10.0"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\system.threading.tasks.dataflow\\4.10.0"
     },
     {
       "Package": {
@@ -1167,9 +1167,9 @@
         "Version": "4.5.0"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\system.valuetuple\\4.5.0\\lib\\net461\\System.ValueTuple.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\system.valuetuple\\4.5.0\\lib\\net461\\System.ValueTuple.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\system.valuetuple\\4.5.0"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\system.valuetuple\\4.5.0"
     },
     {
       "Package": {
@@ -1177,9 +1177,9 @@
         "Version": "20.4.7422.14731"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath\\20.4.7422.14731\\lib\\UiPath.Interop.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath\\20.4.7422.14731\\lib\\UiPath.Interop.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath\\20.4.7422.14731"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath\\20.4.7422.14731"
     },
     {
       "Package": {
@@ -1187,11 +1187,11 @@
         "Version": "1.2.0"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.cefsharpbundle\\1.2.0\\lib\\net452\\CefSharp.Core.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.cefsharpbundle\\1.2.0\\lib\\net452\\CefSharp.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.cefsharpbundle\\1.2.0\\lib\\net452\\CefSharp.Wpf.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.cefsharpbundle\\1.2.0\\lib\\net452\\CefSharp.Core.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.cefsharpbundle\\1.2.0\\lib\\net452\\CefSharp.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.cefsharpbundle\\1.2.0\\lib\\net452\\CefSharp.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.cefsharpbundle\\1.2.0"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.cefsharpbundle\\1.2.0"
     },
     {
       "Package": {
@@ -1199,9 +1199,9 @@
         "Version": "1.6.1"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.6.1\\lib\\net461\\UiPath.DocumentProcessing.Contracts.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.6.1\\lib\\net461\\UiPath.DocumentProcessing.Contracts.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.6.1"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.6.1"
     },
     {
       "Package": {
@@ -1209,13 +1209,13 @@
         "Version": "1.2.1"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1\\lib\\net461\\UiPath.DocumentUnderstanding.ML.Activities.Design.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1\\lib\\net461\\UiPath.DocumentUnderstanding.ML.Activities.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1\\lib\\net461\\UiPath.DocumentUnderstanding.ML.AiFabricClient.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1\\lib\\net461\\UiPath.DocumentUnderstanding.ML.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1\\lib\\net461\\UiPath.DocumentUnderstanding.ML.OrchestratorClient.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1\\lib\\net461\\UiPath.DocumentUnderstanding.ML.Activities.Design.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1\\lib\\net461\\UiPath.DocumentUnderstanding.ML.Activities.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1\\lib\\net461\\UiPath.DocumentUnderstanding.ML.AiFabricClient.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1\\lib\\net461\\UiPath.DocumentUnderstanding.ML.OrchestratorClient.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1\\lib\\net461\\UiPath.DocumentUnderstanding.ML.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1"
     },
     {
       "Package": {
@@ -1223,11 +1223,11 @@
         "Version": "2.8.5"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.excel.activities\\2.8.5\\lib\\net461\\UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.excel.activities\\2.8.5\\lib\\net461\\UiPath.Excel.Activities.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.excel.activities\\2.8.5\\lib\\net461\\UiPath.Excel.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.excel.activities\\2.8.5\\lib\\net461\\UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.excel.activities\\2.8.5\\lib\\net461\\UiPath.Excel.Activities.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.excel.activities\\2.8.5\\lib\\net461\\UiPath.Excel.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.excel.activities\\2.8.5"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.excel.activities\\2.8.5"
     },
     {
       "Package": {
@@ -1235,35 +1235,35 @@
         "Version": "4.5.2"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.DocumentUnderstanding.Contracts.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.DocumentUnderstanding.Persistence.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.IntelligentOCR.Activities.Design.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.IntelligentOCR.Activities.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.IntelligentOCR.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.Data.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.Digitization.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.DocumentClassification.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.Host.Local.Infrastructure.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.ImageProcessing.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.Language.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.Localization.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.OCR.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.OutOfProcessUi.Common.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.OutOfProcessUi.Host.WCF.exe",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.PDF.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.PositionBasedExtraction.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.PositionBasedExtraction.TemplateManager.exe",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.TableProcessing.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.TaxonomyManager.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.TaxonomyManager.Host.Local.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.Utils.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.ValidationStation.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.ValidationStation.Host.Local.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.ValidationStation.Integration.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.ValidationStation.ValueParsing.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.WPF.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.DocumentUnderstanding.Contracts.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.DocumentUnderstanding.Persistence.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.IntelligentOCR.Activities.Design.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.IntelligentOCR.Activities.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.IntelligentOCR.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.Data.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.Digitization.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.DocumentClassification.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.Host.Local.Infrastructure.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.ImageProcessing.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.Language.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.Localization.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.OCR.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.OutOfProcessUi.Common.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.OutOfProcessUi.Host.WCF.exe",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.PDF.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.PositionBasedExtraction.TemplateManager.exe",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.PositionBasedExtraction.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.TableProcessing.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.TaxonomyManager.Host.Local.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.TaxonomyManager.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.Utils.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.ValidationStation.Host.Local.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.ValidationStation.Integration.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.ValidationStation.ValueParsing.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.ValidationStation.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2\\lib\\net461\\UiPath.SmartData.WPF.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.intelligentocr.activities\\4.5.2"
     },
     {
       "Package": {
@@ -1271,9 +1271,9 @@
         "Version": "2.6.0"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.ocr.contracts\\2.6.0\\lib\\net461\\UiPath.OCR.Contracts.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.ocr.contracts\\2.6.0\\lib\\net461\\UiPath.OCR.Contracts.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.ocr.contracts\\2.6.0"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.ocr.contracts\\2.6.0"
     },
     {
       "Package": {
@@ -1281,13 +1281,13 @@
         "Version": "1.5.0"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0\\lib\\net461\\UiPath.OmniPage.Activities.Design.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0\\lib\\net461\\UiPath.OmniPage.Activities.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0\\lib\\net461\\UiPath.OmniPage.Host32.exe",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0\\lib\\net461\\UiPath.Vision.OmniPage.Core.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0\\lib\\net461\\UiPath.Vision.OmniPage.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0\\lib\\net461\\UiPath.OmniPage.Activities.Design.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0\\lib\\net461\\UiPath.OmniPage.Activities.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0\\lib\\net461\\UiPath.OmniPage.Host32.exe",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0\\lib\\net461\\UiPath.Vision.OmniPage.Core.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0\\lib\\net461\\UiPath.Vision.OmniPage.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0"
     },
     {
       "Package": {
@@ -1295,11 +1295,11 @@
         "Version": "1.0.2"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle\\1.0.2\\lib\\net452\\Nuance.OmniPage.CSDK.ArgTypes.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle\\1.0.2\\lib\\net452\\Nuance.OmniPage.CSDK.CAPI.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle\\1.0.2\\lib\\net452\\Nuance.OmniPage.CSDK.Objects.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle\\1.0.2\\lib\\net452\\Nuance.OmniPage.CSDK.ArgTypes.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle\\1.0.2\\lib\\net452\\Nuance.OmniPage.CSDK.CAPI.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle\\1.0.2\\lib\\net452\\Nuance.OmniPage.CSDK.Objects.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.omnipage.bundle\\1.0.2"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.omnipage.bundle\\1.0.2"
     },
     {
       "Package": {
@@ -1307,9 +1307,9 @@
         "Version": "20.4.0"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.platform\\20.4.0\\lib\\net461\\UiPath.Platform.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.platform\\20.4.0\\lib\\net461\\UiPath.Platform.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.platform\\20.4.0"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.platform\\20.4.0"
     },
     {
       "Package": {
@@ -1317,21 +1317,21 @@
         "Version": "20.4.0"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Docking.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Ribbon.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Shared.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.SyntaxEditor.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Text.LLParser.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Text.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Wizard.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\CustomInputForm.exe",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\UiPath.OrchestratorClient.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\UiPath.System.Activities.Design.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\UiPath.System.Activities.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\CustomInputForm.exe",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\UiPath.OrchestratorClient.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\UiPath.System.Activities.Design.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\UiPath.System.Activities.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.system.activities\\20.4.0"
     },
     {
       "Package": {
@@ -1339,9 +1339,9 @@
         "Version": "1.1.51"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.telemetry.client\\1.1.51\\lib\\net461\\TelemetryClient.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.telemetry.client\\1.1.51\\lib\\net461\\TelemetryClient.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.telemetry.client\\1.1.51"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.telemetry.client\\1.1.51"
     },
     {
       "Package": {
@@ -1349,13 +1349,13 @@
         "Version": "1.2.4"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.testing.activities\\1.2.4\\lib\\net461\\UiPath.Orchestrator.Client.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.testing.activities\\1.2.4\\lib\\net461\\UiPath.Testing.Activities.Design.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.testing.activities\\1.2.4\\lib\\net461\\UiPath.Testing.Activities.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.testing.activities\\1.2.4\\lib\\net461\\UiPath.Testing.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.testing.activities\\1.2.4\\lib\\net461\\UiPath.Web.Client.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.testing.activities\\1.2.4\\lib\\net461\\UiPath.Orchestrator.Client.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.testing.activities\\1.2.4\\lib\\net461\\UiPath.Testing.Activities.Design.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.testing.activities\\1.2.4\\lib\\net461\\UiPath.Testing.Activities.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.testing.activities\\1.2.4\\lib\\net461\\UiPath.Testing.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.testing.activities\\1.2.4\\lib\\net461\\UiPath.Web.Client.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.testing.activities\\1.2.4"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.testing.activities\\1.2.4"
     },
     {
       "Package": {
@@ -1363,25 +1363,25 @@
         "Version": "20.4.1"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.DataGrid.Contrib.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Docking.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Editors.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Ribbon.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Shared.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.SyntaxEditor.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Text.LLParser.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Text.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Wizard.Wpf.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\UiPath.CV.Activities.Design.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\UiPath.CV.Activities.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\UiPath.CV.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\UiPath.Wizards.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.DataGrid.Contrib.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Editors.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\UiPath.CV.Activities.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\UiPath.CV.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\UiPath.Wizards.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1"
     },
     {
       "Package": {
@@ -1389,10 +1389,10 @@
         "Version": "2.0.3"
       },
       "Assemblies": [
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.vision\\2.0.3\\lib\\net461\\UiPath.Vision.Core.dll",
-        "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.vision\\2.0.3\\lib\\net461\\UiPath.Vision.dll"
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.vision\\2.0.3\\lib\\net461\\UiPath.Vision.Core.dll",
+        "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.vision\\2.0.3\\lib\\net461\\UiPath.Vision.dll"
       ],
-      "Path": "C:\\Users\\ionut-mihai.nicula\\.nuget\\packages\\uipath.vision\\2.0.3"
+      "Path": "C:\\Users\\ionut.nicula\\.nuget\\packages\\uipath.vision\\2.0.3"
     }
   ]
 }
