@@ -29,4 +29,6 @@ steps:
     packagesPath: '$(Build.ArtifactStagingDirectory)\Output'
     folderName: 'Ionut Nicula'
     entryPoints: 'Main.xaml'
-    
+  env:
+    OrchestratorClientIdOverride: "ADLqfy4M6cRUaEL6XOxiKpMqyPvjTuUi"
+    OrchestratorAuthorizationUriOverride: "https://id-preprod.uipath.com"
