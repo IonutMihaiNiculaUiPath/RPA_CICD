@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'windows-latest'
+  vmImage: 'windows-2022'
 
 steps:
 - task: UiPathPack@2
@@ -19,7 +19,7 @@ steps:
   inputs:
     testTarget: 'TestSet'
     orchestratorConnection: 'Test Orchestrator'
-    testSet: 'UiBank Regression Testing'
+    testSet: 'UiBank Background Tests'
     folderName: 'Ionut Nicula'
 - task: UiPathDeploy@2
   inputs:
@@ -27,3 +27,4 @@ steps:
     packagesPath: '$(Build.ArtifactStagingDirectory)\Output'
     folderName: 'Ionut Nicula'
     environments: 'IonutEnv'
+    
