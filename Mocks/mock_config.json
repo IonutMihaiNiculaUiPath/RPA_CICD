@@ -1,3 +1,8 @@
 {
-  "mockedWorkflows": []
+  "mockedWorkflows": [
+    {
+      "mockFilePath": "Mocks\\Flowchart_Document Processing_mock.xaml",
+      "sourceWorkflowPath": "Flowchart_Document Processing.xaml"
+    }
+  ]
 }
