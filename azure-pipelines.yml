@@ -26,5 +26,5 @@ steps:
     orchestratorConnection: 'Test Orchestrator'
     packagesPath: '$(Build.ArtifactStagingDirectory)\Output'
     folderName: 'Ionut Nicula'
-    environments: 'IonutEnv'
+    entryPoints: 'Main.xaml'
     
