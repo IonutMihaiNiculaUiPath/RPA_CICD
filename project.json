@@ -44,7 +44,7 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "cf1dd5ea-ce0d-4ed5-a9a0-a7a55813cbed",
         "fileName": "TestCases\\UiPath Invoice Test.xaml"
       },
